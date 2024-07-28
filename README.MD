@@ -7,6 +7,7 @@ The original one was designed by lionello. Since I don't have Eagle, I'm redrawi
 * Added white LED channel
 * Using ESP-WROOM-02 instead of ESP12. Both are ESP8266-based chip.
 * Added bypass capacitors
+* Added reverse polarity protection for voltage regulator input
 * Using SMD components except for connectors
 * Added mounting holes
 * Replaced LDO with DC-DC buck converter
