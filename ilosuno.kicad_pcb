@@ -21685,7 +21685,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "must low"
+	(gr_text "must low/NC"
 		(at 142.2 95.65 0)
 		(layer "B.SilkS")
 		(uuid "12e01fbf-603c-4730-8690-6edb2eeae58e")
@@ -21724,7 +21724,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "PCB rev1a"
+	(gr_text "PCB rev1b"
 		(at 119 110.35 0)
 		(layer "B.SilkS")
 		(uuid "1c21ddaf-0fd8-4558-8267-ba0b6f2bac5c")
