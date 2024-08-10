@@ -3502,7 +3502,7 @@
 		(path "/925a0334-f7af-4037-8b21-f16832b92a1d")
 		(sheetname "Root")
 		(sheetfile "ilosuno.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)

@@ -5156,6 +5156,17 @@
 		)
 		(uuid "c8a08104-d766-45ec-b8a9-811cd6c0949f")
 	)
+	(text "EN: 7V MAX\nDo not short to VDD\nor you'll fire the chip"
+		(exclude_from_sim no)
+		(at 65.786 59.436 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "caf6962f-1b02-49b8-94fd-5e13cbf984d5")
+	)
 	(text "NodeMCU D0"
 		(exclude_from_sim no)
 		(at 198.628 100.584 0)
@@ -9818,7 +9829,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "925a0334-f7af-4037-8b21-f16832b92a1d")
 		(property "Reference" "R7"
 			(at 69.85 39.3699 0)
