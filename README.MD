@@ -20,6 +20,10 @@ The original one was designed by lionello. Since I don't have Eagle, I'm redrawi
 
 This new hardware design is backward-compatible with the original firmware.
 
+## Installation Progress in DSL
+
+![Pic showing the Current Installation Progress in DSL](./docs/progress.jpg)
+
 ## Credit
 
 * lionello - For making the original design and the firmware
