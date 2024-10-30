@@ -22,7 +22,18 @@ This new hardware design is backward-compatible with the original firmware.
 
 ## Installation Progress in DSL
 
-![Pic showing the Current Installation Progress in DSL](./docs/progress.jpg)
+2024-08-14:
+
+![Pic showing the Current Installation Progress in DSL as of 2024-08-14](./docs/progress.jpg)
+
+2024-10-29:
+
+![Pic showing the Current Installation Progress in DSL as of 2024-10-29](./docs/progress2.jpg)
+
+TODO:
+
+* Fix helios DNS resolution
+* Install another set of new LEDs on backside
 
 ## Credit
 
