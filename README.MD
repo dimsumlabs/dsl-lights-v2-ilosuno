@@ -30,6 +30,14 @@ This new hardware design is backward-compatible with the original firmware.
 
 ![Pic showing the Current Installation Progress in DSL as of 2024-10-29](./docs/progress2.jpg)
 
+2025-09-13:
+
+* Programmed the driver board with correct SSID and password so that it can be integrated with the lighting-related feature in DSL
+* Obtained MAC and IP address of the driver boards so that the helios DNS can be fixed. The fix is to be performed by trouble
+* Performed material recon for the installation of the backside
+
+Thanks Nigel for wiring up the frontside driver board to the switch board. Also thanks Nigel for offering to help installing the LED strips to the backside.
+
 TODO:
 
 * Fix helios DNS resolution
