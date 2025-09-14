@@ -38,10 +38,14 @@ This new hardware design is backward-compatible with the original firmware.
 
 Thanks Nigel for wiring up the frontside driver board to the switch board. Also thanks Nigel for offering to help installing the LED strips to the backside.
 
+2025-09-14:
+
+* trouble had updated the DNS record. Now that the driver boards' web interface can be accessed via a domain name
+
 TODO:
 
-* Fix helios DNS resolution
 * Install another set of new LEDs on backside
+
 
 ## Credit
 
