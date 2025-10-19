@@ -42,6 +42,15 @@ Thanks Nigel for wiring up the frontside driver board to the switch board. Also 
 
 * trouble had updated the DNS record. Now that the driver boards' web interface can be accessed via a domain name
 
+2025-09-27:
+
+* As Nigel's doing renovation, plan changed. The orignally installed strips had been rotated. Instead of using 2 LED controllers, we gotta use 5 of them. Sadale had put the 5 strips up but only one of them has controller installed for now.
+
+2025-10-19:
+
+* Drawn enclosure for the device
+
+
 TODO:
 
 * Install another set of new LEDs on backside
