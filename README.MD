@@ -46,10 +46,18 @@ Thanks Nigel for wiring up the frontside driver board to the switch board. Also 
 
 * As Nigel's doing renovation, plan changed. The orignally installed strips had been rotated. Instead of using 2 LED controllers, we gotta use 5 of them. Sadale had put the 5 strips up but only one of them has controller installed for now.
 
+2025-10-18:
+
+* Ordered 10pcs additional units
+
 2025-10-19:
 
 * Drawn enclosure for the device
 
+2025-11-01:
+
+* Revised enclosure design with vents added
+* Performed programming, flashing and testing on the 10pcs batch
 
 TODO:
 
