@@ -59,15 +59,15 @@ Thanks Nigel for wiring up the frontside driver board to the switch board. Also 
 * Revised enclosure design with vents added
 * Performed programming, flashing and testing on the 10pcs batch
 
-TODO:
+2025-12-31:
 
-* Install another set of new LEDs on backside
-
+* I haven't logged the progress but based on my visit in the past weeks, the installation has been completed (5 sets of LED controllers hanging on the ceiling). strerror had also vibe coded a web interface for controlling the lights!
 
 ## Credit
 
 * lionello - For making the original design and the firmware
-* Sadale - For revising the hardware
-* nigel - for reviewing the hardware design
+* Sadale - For revising the hardware design and doing the installation
+* nigel - for reviewing the hardware design and doing the installation
 * trouble - for proposing starting this project and reviewing the hardware design
+* strerror - for doing the installation and making the web interface
 * Other DSL members - for getting the whole thing installed to DSL, maintaining the firmware, etc.
